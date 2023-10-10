@@ -4,8 +4,9 @@
 
 <div align=center>
 <br/>
-  ![image](./contents/images/logo.png)
+  <img src="./contents/images/logo.png">
 </div>
+
 
 <div align="center">
   <h3>사전 검사를 통한 신축 건물 시공 결함 피해 예방 프로젝트 </h3>
